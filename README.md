@@ -1,4 +1,4 @@
-<img width="100%" height="400" src="https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?size=626&ext=jpg" alt="">
+<img width="100%" height="250" src="https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?size=626&ext=jpg" alt="">
 <h1 align="center">Hi 👋, I'm Murali</h1>
 <h3 align="center">Learning software Development</h3>
 <img align="right" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" alt="">
